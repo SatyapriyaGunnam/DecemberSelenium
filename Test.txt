@@ -1,2 +1,2 @@
 Learning GIT
-Adding a line
+Adding a new line
